@@ -1,0 +1,19 @@
+polynomials:
+
+
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays
+
+We can specify the x and Y axis start and end points using Numpy
+
+We can create a graph for specified values using matplotlib.pyplot
+
+A decorator in Python is any callable Python object that is used to modify a function or a class. A reference to a function "func" or a class "C" is passed to a decorator and the decorator returns a modified function or class. The modified functions or classes usually contain calls to the original function "func" or class "C"
+ 
+We can create the polynomial function using "def __call__()"
+
+We can add and subtract two polynomial functions using  "__add__"," __sub__" and "generator" methods.
+
+
+
+
+
